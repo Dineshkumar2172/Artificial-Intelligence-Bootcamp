@@ -1,4 +1,4 @@
-What is Machine Learning? (400 words)
+What is Machine Learning?
 Machine Learning (ML) is a subset of artificial intelligence enabling computers to learn from data and make predictions without explicit programming. Rather than following predetermined rules, ML systems identify patterns in data and generalize them to perform tasks on unseen information. This paradigm shift from rule-based programming to learning by example has revolutionized problem-solving approaches.
 
 ML systems learn through three primary approaches: Supervised learning uses labeled data to train models for classification (predicting categories) and regression (predicting continuous values). Unsupervised learning discovers hidden patterns in unlabeled data through clustering and dimensionality reduction. Reinforcement learning trains agents by rewarding correct actions and penalizing incorrect ones, used in game AI and robotics.

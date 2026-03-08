@@ -1,4 +1,4 @@
-What is Python? (400 words)
+What is Python?
 Python is a high-level, interpreted programming language created by Guido van Rossum in 1991. It emphasizes code readability and simplicity, making it accessible to beginners while remaining powerful for experienced developers. Python's design philosophy prioritizes writing clean, understandable code through features like indentation-based syntax instead of curly braces.
 
 As an interpreted language, Python code executes line-by-line, enabling faster development and easier debugging. Its dynamic typing means variables don't require explicit type declarations, offering flexibility and reducing boilerplate. Python supports both object-oriented and functional programming paradigms, allowing developers to choose the approach that best fits their problem.
