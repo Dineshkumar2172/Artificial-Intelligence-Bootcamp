@@ -9,4 +9,9 @@ chromadb==1.0.13
 sentence-transformers==4.1.0
 pypdf==5.7.0
 python-dotenv==1.1.1
-pymupdf-1.27.1
+pymupdf==1.27.1
+
+# Embeddings
+langchain-openai
+langchain-huggingface
+sentence-transformers
