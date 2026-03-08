@@ -1,0 +1,16 @@
+What is Machine Learning? (400 words)
+Machine Learning (ML) is a subset of artificial intelligence enabling computers to learn from data and make predictions without explicit programming. Rather than following predetermined rules, ML systems identify patterns in data and generalize them to perform tasks on unseen information. This paradigm shift from rule-based programming to learning by example has revolutionized problem-solving approaches.
+
+ML systems learn through three primary approaches: Supervised learning uses labeled data to train models for classification (predicting categories) and regression (predicting continuous values). Unsupervised learning discovers hidden patterns in unlabeled data through clustering and dimensionality reduction. Reinforcement learning trains agents by rewarding correct actions and penalizing incorrect ones, used in game AI and robotics.
+
+Key algorithms span diverse types: linear models (regression, logistic regression), tree-based methods (decision trees, random forests), support vector machines, neural networks, and clustering algorithms. Deep learning—using neural networks with multiple layers—has driven recent breakthroughs, enabling computers to understand images, text, and complex patterns.
+
+The ML workflow involves: defining problems clearly, collecting relevant data, preprocessing and cleaning data, engineering features, selecting appropriate algorithms, training models on data, evaluating performance on test sets, tuning hyperparameters, deploying to production, and monitoring for performance degradation.
+
+ML faces significant challenges: overfitting (learning training data too well), underfitting (oversimplifying patterns), poor data quality, class imbalance, feature selection, computational demands, and interpretability issues in complex models.
+
+Applications span numerous industries. Healthcare uses ML for disease diagnosis and drug discovery. Finance leverages it for fraud detection and risk assessment. E-commerce employs recommendation systems and customer segmentation. Transportation benefits from autonomous vehicles and route optimization. Natural language processing powers machine translation and chatbots, while computer vision enables image recognition and surveillance.
+
+The field continues evolving with emerging trends: Explainable AI making models more transparent, few-shot learning reducing data requirements, federated learning preserving privacy, automated machine learning simplifying pipelines, transfer learning leveraging existing knowledge, and causal learning understanding causation beyond correlation.
+
+Machine learning represents a fundamental paradigm shift enabled by three factors: abundant data, computational power, and algorithmic advances. From daily recommendation systems to life-saving medical diagnostics, ML reshapes society. Understanding both capabilities and limitations remains essential for anyone in technology. As the field matures, responsible AI development—considering ethical implications—becomes increasingly critical for building beneficial intelligent systems.
